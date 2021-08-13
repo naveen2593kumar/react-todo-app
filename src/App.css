@@ -1,0 +1,23 @@
+
+.container {
+  display: grid;
+}
+
+.child {
+  margin: 0 auto;
+}
+
+h1 {
+  padding-bottom: 50px;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.todo {
+  display: flex;
+  flex-direction: column;
+}
+
+thead tr td {
+  text-align: center;
+}
