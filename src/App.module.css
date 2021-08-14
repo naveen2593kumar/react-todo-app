@@ -1,0 +1,29 @@
+.wrapper {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+}
+
+@media only screen and (min-width: 600px) {
+  .content {
+    width: 75%;
+  }
+}
+
+@media only screen and (min-width: 900px) {
+  .content {
+    width: 60%;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .content {
+    width: 50%;
+  }
+}

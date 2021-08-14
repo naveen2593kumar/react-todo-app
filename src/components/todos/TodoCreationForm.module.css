@@ -1,0 +1,12 @@
+.wrapper {
+  padding: 16px;
+}
+
+.form {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.field {
+  flex: 1;
+}

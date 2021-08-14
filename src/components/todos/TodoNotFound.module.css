@@ -1,0 +1,22 @@
+.wrapper {
+  flex: 0.75;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  text-align: center;
+  color: #ff5722;
+  font-weight: bold;
+}
+
+.subtitle {
+  text-align: center;
+}
+
+.icon.icon {
+  font-size: 128px;
+  color: #ff5722;
+}
